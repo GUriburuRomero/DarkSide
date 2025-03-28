@@ -1,0 +1,64 @@
+header {
+    background-color: #333;
+    color: white;
+    text-align: center;
+    padding: 10px;
+}
+
+main {
+    padding: 50px;
+    background-color: azure;
+}
+
+main span {
+    text-align: justify;
+    line-height: 2px;
+    color:cadetblue
+}
+
+footer nav {
+    display: flex;
+    background-color: #333;
+    padding: 40px;
+    justify-content: center;
+    align-items: center;
+    gap: 400px;
+}
+
+footer nav h2 {
+    color: beige;
+}
+
+footer img {
+    width: 500px;
+    height: auto;
+}
+
+header h1 {
+    font-size: 70px;
+}
+
+body {
+    margin: 0px;
+}
+
+#section {
+    color: aliceblue;
+}
+
+.principal_nav {
+    display: flex;
+    justify-content: center;
+    margin-bottom: 30px;
+    gap: 300px;
+}
+
+.principal_nav a{
+    font-size: 30px;
+    text-decoration: none;
+    gap: 500px;
+}
+
+.principal_nav a:hover {
+    text-decoration: overline;
+}
